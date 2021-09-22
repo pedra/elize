@@ -1,2 +1,2 @@
 # elize
-Electronizer CLI
+Electronize CLI
